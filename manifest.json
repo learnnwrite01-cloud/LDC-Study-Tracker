@@ -1,0 +1,15 @@
+{
+  "name": "VFA + LDC Study Tracker",
+  "short_name": "VFA + LDC",
+  "description": "400 Micro-Topic Study Tracker for VFA + LDC preparation",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
